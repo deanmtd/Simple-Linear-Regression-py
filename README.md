@@ -1,2 +1,2 @@
 # Simple-Linear-Regression-py
-y = B0 + B1*x1
+y = B0 + B1*X1
